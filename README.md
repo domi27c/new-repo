@@ -1,2 +1,2 @@
-# new-repo
-Whac'a mole
+# Whac'a mole
+
